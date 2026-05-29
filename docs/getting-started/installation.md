@@ -5,7 +5,7 @@
 ```bash
 git clone https://github.com/EstebanCastel/KMP-IMPACT-Reviewing-Dependency-Updates-in-Kotlin-Multiplatform.git
 cd KMP-IMPACT-Reviewing-Dependency-Updates-in-Kotlin-Multiplatform
-python -m venv .venv
+python3 -m venv .venv
 source .venv/bin/activate     # Windows: .venv\Scripts\activate
 pip install -e ".[dev]"
 ```
